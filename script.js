@@ -1,5 +1,5 @@
 $(document).ready(function(){
-	/* This code is executed after the DOM has been completely loadeda */
+	/* This code is executed after the DOM has been completely loadesda */
 	
 	$('nav a,footer a.up').click(function(e){
 										  
